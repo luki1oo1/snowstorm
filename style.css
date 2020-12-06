@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background-image: url("../lekcja 43/landscape-4665051_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+
+.snow-flake {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: absolute;
+    background-image: url("2cd43b_529143f45e32422bba062bc15dd423ee_mv2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
